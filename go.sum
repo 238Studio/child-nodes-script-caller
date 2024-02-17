@@ -2,3 +2,9 @@ github.com/238Studio/child-nodes-assist v1.14.0 h1:4xSyLh4lChUZAQl1Vh48DPMcwpb47
 github.com/238Studio/child-nodes-assist v1.14.0/go.mod h1:moO2jhZ3uqBflOqqhZncfQaRDsMj5Iz/vun+1uRpZ6w=
 github.com/238Studio/child-nodes-assist v1.14.1 h1:Kyb2AdstHu9VGijXxqvgeSInW7kUwd3mIyNI83CADrQ=
 github.com/238Studio/child-nodes-assist v1.14.1/go.mod h1:moO2jhZ3uqBflOqqhZncfQaRDsMj5Iz/vun+1uRpZ6w=
+github.com/238Studio/child-nodes-assist v1.17.0 h1:KYYRceZ744sidv0MmaG+7XX4nyNCLr0g8PFebpPnO/g=
+github.com/238Studio/child-nodes-assist v1.17.0/go.mod h1:xzED3AH7uTWgFvZ1DeuO//DjgzjUvC4KIDct1dJ8Eiw=
+github.com/238Studio/child-nodes-error-manager v0.0.1 h1:BH5saKDHqdLUpqCugl3SZp7PCXs3AmNT4Uwb1s+gB+o=
+github.com/238Studio/child-nodes-error-manager v0.0.1/go.mod h1:sdH7hWskPx4rqr30G6KTu2T4sXIRTowJXSRjZJ8RlmM=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

@@ -15,6 +15,7 @@ result="$str1 $str2"
 
 # 输出结果到终端
 echo "拼接结果为: $result"
+echo "拼接结果为: $result"
 
 # 将结果写入文本文件test.txt
 echo "$result" > test.txt
