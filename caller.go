@@ -3,8 +3,7 @@ package script
 import (
 	"os/exec"
 
-	_const "github.com/238Studio/child-nodes-assist/const"
-	"github.com/238Studio/child-nodes-assist/util"
+	"github.com/238Studio/child-nodes-error-manager/errpack"
 )
 
 // RegisterScriptCaller 注册脚本调用器
@@ -52,7 +51,7 @@ func Caller(interpreter string, args ...string) (response []byte, err error) {
 	//执行命令并捕获输出
 	output, err := cmd.CombinedOutput()
 	if err != nil {
-		return nil, util.NewError(_const.TrivialException, _const.Script, err)
+		return nil, errpack.NewError(errpack.TrivialException, errpack.Script, err)
 	}
 
 	return output, nil
